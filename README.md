@@ -1,3 +1,3 @@
 ## Task Backend
-php artisan migrate
+php artisan migrate \n
 php artisan db:seed
